@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-
+  
 // https://zerowidth.com/2013/05/05/jump-point-search-explained.html
 // https://joonleestudio.tistory.com/28
 // https://gamedevelopment.tutsplus.com/tutorials/how-to-speed-up-a-pathfinding-with-the-jump-point-search-algorithm--gamedev-5818
